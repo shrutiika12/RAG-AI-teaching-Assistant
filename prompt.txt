@@ -1,0 +1,6 @@
+I am teaching web development using web development course. Here are video subtitle chunks containing video title,video number, start time in second, end time in seconds, the text at that time :
+
+[{"title":" Forms and input tags in HTML","number":"9 ","start":0.0,"end":4.9,"text":" In this video, we will know what are forms and what is the input tag in the form."},{"title":" Forms and input tags in HTML","number":"9 ","start":11.3,"end":16.2,"text":" These are the forms that you see on contact pages, Google forms or inquiry forms."},{"title":" Inline & Block Elements in HTML ","number":"2 ","start":327.0,"end":329.0,"text":" That the video of forms was video 7."}]
+-------------------------------------------
+"what are forms"
+User asked this question related to the video chunks , you have to answer where and how much content is taught in which video (in which and at what timwstamp) and guide the user to go to that particular video. If user asks unrelated quetsion ,tell him that you can only answer questions related to the course

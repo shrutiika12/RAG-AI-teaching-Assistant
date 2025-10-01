@@ -1,0 +1,9 @@
+User, I noticed you asked a question about forms. In our web development course, we covered forms in detail.
+
+The concept of forms was introduced in Video 9 (Forms and input tags in HTML). We discussed what forms are and their purpose in web pages, including contact pages, Google forms, and inquiry forms.
+
+Specifically, the section on "what are forms" starts at timestamp 11.3 seconds into Video 9 and lasts until approximately 16.2 seconds.
+
+If you'd like to learn more about forms and input tags, I recommend watching Video 9 (Forms and input tags in HTML) from the start until it ends. This will give you a comprehensive understanding of the topic.
+
+Let me know if you have any further questions or need clarification on anything!
